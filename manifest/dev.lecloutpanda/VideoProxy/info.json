@@ -1,0 +1,16 @@
+{
+	"name": "LeCloutPanda",
+	"id": "dev.lecloutpanda.videoproxy",
+	"description": "This Resonite mod restores higher quality youtube content in game by using an external proxy to present the final video file to the game. This can also be used to get around geo blocking so everyone in world can see the video.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/LeCloutPanda/VideoProxy",
+	"versions": {
+		"1.4.0": {
+			"releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/1.4.0",
+			"artifacts": [{
+				"url": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/1.4.0/VideoProxy.dll",
+				"sha256": "96e5bc3aa8a0f1bf7744db2eecabe08669c2eddac5a94335973aa075c20a5ad3"
+			}]
+		}
+	}
+}
